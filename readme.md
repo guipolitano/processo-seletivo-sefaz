@@ -24,6 +24,7 @@
 
 ## Realizando a Rotina de Testes
 1) Certifique-se de que o banco esteja importado;
-2) Em seu terminal e na raiz do projeto utilize o comando 'vendor\bin\phpunit'
+2) Certifique-se também de que o arquivo 'test.csv' esteja na pasta '/public/imports/';
+3) Em seu terminal e na raiz do projeto utilize o comando 'vendor\bin\phpunit';
 
 ### Autor: Guilherme Politano de Sant' Anna
