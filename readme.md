@@ -1,5 +1,5 @@
 ## Informações do Projeto
-### Projeto criado para processo seletivo;
+### Projeto criado para processo seletivo 2019 da Sefaz;
 ### O objetivo do projeto é construir uma API para consulta e recuperação de uma lista de produtos.
 ## Tecnologias Utilizadas
 - PHP com framework Laravel (versão 5.8.29)
