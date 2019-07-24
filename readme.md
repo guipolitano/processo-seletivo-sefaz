@@ -9,6 +9,7 @@
 1) No arquivo .env altere o 'DB_DATABASE=' para o caminho absoluto de seu arquivo 'database.sqlite';
 2) Em seu terminal e na raiz do projeto utilize o comando 'php artisan migrate';
 3) O banco é montado através do CSV da pasta '/public/imports/', por isso, certifique que o arquivo .csv encontra-se lá;
+4) Em seu terminal e na raiz do projeto utilize o comando 'php artisan serve' para executar o projeto;
 
 ## Importando o banco
 1) Para importar o arquivo .csv acesse a rota '/api/v1/importar/dataset.csv', caso deseje importar um novo banco, basta alterar o 'dataset' para o nome do novo arquivo. Mas certifique-se de que as colunas sejam as mesmas;
